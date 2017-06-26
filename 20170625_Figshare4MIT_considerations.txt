@@ -1,0 +1,54 @@
+Figshare for Institutions: Considerations for MIT Libraries
+
+# Introductory paragraph:
+- Current state of data repos at MIT (DSpace, Dataverse, etc)
+- Why looking for solutions now
+- Why figshare is a strong consideration (organizatinal investment in Digital Science, data needs report, data repository evaluation project).
+
+
+# Needs figshare would meet
+## Now
+- An up-to-date data repository for the Institute's research community
+- 
+## Future
+- 
+
+# Needs figshare would not meet
+- Differential control of DOI assignment per disciplinary needs
+- Local control of repository infrastructure
+- 
+
+# Advantages
+- Name recognition
+- Already used by Institute's research community
+- Publisher integrations
+- Integration with other Digital Science products in which MIT Libraries is already invested
+- Key-turn operation
+	- Support team (unclear to whom: libraries? researchers?)
+-
+	
+# Risks
+- Exit strategy
+- Branding/marketing confusion
+- Values and philosophy
+	- Commercial product with uncertain goals and future disposition
+	- Use of researcher metadata for sales and other products
+-
+
+# Possible implementations
+## Time
+- Long term
+- Short term
+## Extent
+- Full
+- Limited
+## Timeline for implementations
+## Resources for implementations
+- Personnel
+- Policy
+- Technical infrastructure
+
+
+
+
+
