@@ -23,17 +23,17 @@ Agreed.
 		- combining ORCIDs
 	- MIT Press workflow
 	
-[ ] Understanding current Institute practice for assigning ORCIDs (LH) end of Sept
-[ ] Mapping ORCID use at the Institute & Libraries
-	[ ] What is the current state of use in each of these areas (LH to set up gdoc for collection. LH & CM & all to contribute. for all the things by second half of Sept, before next meeting)
+- [ ] Understanding current Institute practice for assigning ORCIDs (LH) end of Sept
+- [ ] Mapping ORCID use at the Institute & Libraries
+	- [ ] What is the current state of use in each of these areas (LH to set up gdoc for collection. LH & CM & all to contribute. for all the things by second half of Sept, before next meeting)
 
 
 Work to do now:
 
-[ ] update libguide (LH)
-[ ] Making sure that the libguide resources are working (LH)
-[ ] Create ORCID@mit.edu moira list (CM)
-[ ] Facilitate leadership updates (HS)
-[ ] Set up next meeting for 2nd half of Sept (AN)
+- [ ] update libguide (LH)
+- [ ] Making sure that the libguide resources are working (LH)
+- [ ] Create ORCID@mit.edu moira list (CM)
+- [ ] Facilitate leadership updates (HS)
+- [ ] Set up next meeting for 2nd half of Sept (AN)
 
 •	Create timeline
