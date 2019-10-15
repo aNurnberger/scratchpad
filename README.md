@@ -8,17 +8,18 @@ Regrets:
 
 ###### Present & discuss proposed draft ORCiD workflows for 
 
-####### Publishing (Rachel & Beth) [10 min]
+- Publishing (Rachel & Beth) [10 min]
 
-####### Stewarding (Laura & Amy) [10 min]
+- Stewarding (Laura & Amy) [10 min]
 
-####### On-boarding faculty (Christine & Laura) [10 min]
+- On-boarding faculty (Christine & Laura) [10 min]
 
 ###### Choose workflows to refine for further development, with a concentration on roles/responsibilities
 
-####### As time allows, define where & what Institutional buy-in is needed for workflows and start those processes
+- As time allows, define where & what Institutional buy-in is needed for workflows and start those processes
 
 ###### Action item review
+
     - [ ] Everyone: Register ORCiD Board voting preferences w Laura
     - [ ] Amy: Set up Nov mtg, have workflows to discuss then
     - [ ] Everyone: work on workflows
