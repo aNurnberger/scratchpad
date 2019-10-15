@@ -20,9 +20,9 @@ Regrets:
 
 ###### Action item review
 
-    - [ ] Everyone: Register ORCiD Board voting preferences w Laura
-    - [ ] Amy: Set up Nov mtg, have workflows to discuss then
-    - [ ] Everyone: work on workflows
-    - [ ] Christine: Take a second look at updated LibGuide
-    - [ ] Rachel: Follow up on suggesting to editors that text referring authors to their institutional resources for creating ORCiDs be added to author instructions
-    - [ ] Laura: Follow up on updating ATLAS ORCiD page wording
+    -[ ] Everyone: Register ORCiD Board voting preferences w Laura
+    -[ ] Amy: Set up Nov mtg, have workflows to discuss then
+    -[ ] Everyone: work on workflows
+    -[ ] Christine: Take a second look at updated LibGuide
+    -[ ] Rachel: Follow up on suggesting to editors that text referring authors to their institutional resources for creating ORCiDs be added to author instructions
+    -[ ] Laura: Follow up on updating ATLAS ORCiD page wording
