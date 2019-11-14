@@ -6,13 +6,19 @@ Note taker: Mikki
 Attendees: Ece, Helen, Ye, Phoebe, Amy, Christine, Mikki, Joe
 Regrets: 
 
-- AOB
-- Announcements/Sharing (all, 5-15 min) (Information sharing)
-- Project barriers https://wikis.mit.edu/confluence/x/Jwb_Bg  (all, 5 min) (Information sharing)
-- Updates from Shared Data Infrastructure (CDL & Dryad) workshop: Information sharing (Ece & Ye, 10 min) (Information sharing/next step decision making)
-- DMS series in IAP plan (Phoebe, 15 min) (Information sharing/next step decision making) Proposal: Workshops https://wikis.mit.edu/confluence/display/DSSLIB/Workshops
-- Solidifying IAP instruction plans (Decision making)
-- Action item review
-- +/𝚫
+- Action items from last time:
+	+ [ ] HS will look into turning other office into scheduled space
+	+ [ ] RC (HS will ask) will get extra keys made for other office and consultation room & located at front desk
+	+ [ ] Find time for welcome party for LIRS temporary guests week of 9th. HS will speak w Rob. Include Rotch-IDLA folk.
+- Meeting material accessibility (Amy)
+- Update on position mtg w KP/EF/HS/TAG (Howard)
+- Carpentries for DSS areas (Daniel)
+- Case crafting: Develop case for why DSS needs real resources. Create Timeline. Consider overlaps with current efforts w CoC, OATF, CRN. (all)
+- DSS strategic relationships: what to create, how to present DSS work, communicating what has been done to DSS. (All)
+- Leadership updates & add-on effects. Information sharing & thought development. (Howard)
+	+ RLL
+	+ JLT
+	+ ADs
+
 
 
