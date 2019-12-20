@@ -27,12 +27,12 @@ Tests and such
 			- PA: Connected to the question of difficulty of finding data, is the difficulty of telling people where to put data. Could 
 - Consultation check-ins
 - Action item review
-	- [ ] JC put together presentation on preservation storage in February. Also looking at workflows from current DMS to digital preservation storage and archival
-	- [ ] AN communicate to Katharine Dunn that LIRS COPs would like update in spring on OATF implementation team work
-	- [ ] ET to check knowlegebase for Git Pages as tool to recommend/suggest for display projects, or projects that use webpages to publicize work.
-	- [ ] PA possible future project, identifying repositories where our peeps can deposit their data. e.g., open to what subjects, who can deposit.
-	- [ ] AN check into how difficult would it be to take a snapshot of the Libraries or archival data, convert into csv or JSON and put into DSpace to be discoverable?
-	- [ ] AN delay annual web review for 6 months, coincide w accessibility work?
+	[ ] JC put together presentation on preservation storage in February. Also looking at workflows from current DMS to digital preservation storage and archival
+	[ ] AN communicate to Katharine Dunn that LIRS COPs would like update in spring on OATF implementation team work
+	[ ] ET to check knowlegebase for Git Pages as tool to recommend/suggest for display projects, or projects that use webpages to publicize work.
+	[ ] PA possible future project, identifying repositories where our peeps can deposit their data. e.g., open to what subjects, who can deposit.
+	[ ] AN check into how difficult would it be to take a snapshot of the Libraries or archival data, convert into csv or JSON and put into DSpace to be discoverable?
+	[ ] AN delay annual web review for 6 months, coincide w accessibility work?
 - +/𝚫
 
 
