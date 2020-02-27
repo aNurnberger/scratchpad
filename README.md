@@ -1,32 +1,19 @@
 # scratchpad
 Tests and such
 
-20200226
-========
-
-Invitees: Ece, Helen, Ye, Phoebe, Amy, Christine, Mikki, Joe
-Note taker: Christine
-
-- AOB
-- Changes in agenda | Amy | Inform, feedback (all) | 2 min
-	- provided more details on items to shape expectations, format
-	- removed project status updates, etc. Expect emails!
-- Announcements/Sharing | Amy | Feedback (all) | 5-10 min
-	- Boston DataLibs
-	- New GIS + Data Lab log test period, dates, link
-- Consultation check-ins | Amy | Feedback (all) | 5-10 min
-	- Container technology. What are the questions we are getting & what do we know
-	- JPAL
-	- Takeda
-	- Bevin
-	- LIDS/IDSS session. Join Phoebe?
-- Increasing accessibility in DMS | Christine | Update, feedback, next steps | 10 min
-- Pathways 2 Participation | Amy | Update & supportive actions | 5 min 
-- The case for Dryad @ MIT | Ece & Ye | Presentation (10 min), shared decision making on next steps via Input gathering/consensus (10 min) | 20 min
-- Active data management to digital preservation: what are the required elements? | Joe | Presentation (10 min), Feedback on incorporating these into DMS documentation & processes (5 min) | 15 min 
-- New webspace! How to represent DMS through lifecycle & intersecting with other services? | Christine & Amy | Feedback | 10 min
-- Action item review | Christine | Consensus | 3 min
-- +/𝚫 | Amy | Feedback (all) | 5 min
-
-
+- IAP DSS Teaching metrics. https://docs.google.com/document/d/1oRhBNu8FNvN6Fp_iljM5bPmWar9K1roNwqwTGG3m0Qk/edit# | prepare by reviewing & commenting doc (all)| wrap-up document
+- Naming of web property. See Madeline's 20200226 email. | prepare by reviewing issues and solutions presented | decision or next steps on names for presenting services & space
+- Follow up on action items
+	- SAC role & communication (Daniel)
+	- Draft process by which non-mgrs participate in the agenda setting for DSS mtgs (Daniel)
+- Updates
+	- 7a-100 assessment | Amy & Daniel | inform
+	- Triennial survey | Amy 
+	- Positions | Howard
+	- Card access: checkin | All
+- Leadership updates & add-on effects | Howard | Information sharing & thought development
+	- RLL
+	- JLT
+	- ADs
+- AOB?
 
