@@ -1,19 +1,20 @@
 # scratchpad
 Tests and such
 
-- IAP DSS Teaching metrics. https://docs.google.com/document/d/1oRhBNu8FNvN6Fp_iljM5bPmWar9K1roNwqwTGG3m0Qk/edit# | prepare by reviewing & commenting doc (all)| wrap-up document
-- Naming of web property. See Madeline's 20200226 email. | prepare by reviewing issues and solutions presented | decision or next steps on names for presenting services & space
-- Follow up on action items
-	- SAC role & communication (Daniel)
-	- Draft process by which non-mgrs participate in the agenda setting for DSS mtgs (Daniel)
-- Updates
-	- 7a-100 assessment | Amy & Daniel | inform
-	- Triennial survey | Amy 
-	- Positions | Howard
-	- Card access: checkin | All
-- Leadership updates & add-on effects | Howard | Information sharing & thought development
-	- RLL
-	- JLT
-	- ADs
-- AOB?
+Wiki link: https://wikis.mit.edu/confluence/x/uhIEBw
+
+- AOB
+- Introduce Sadie!
+- Announcements/Sharing (all, 5-15 min)
+	- OATF-IT update: rec 10
+	- JPAL cross-links & Privacy training
+	- From RDG
+- Consultation check-ins | Amy | Feedback (all) | 5-10 min
+- Topics
+	- Spring instruction. 
+		- What are we doing & who is doing it? | Amy | Review past workshop performance [link workshop page] & nominate April classes & instructors https://docs.google.com/spreadsheets/d/1ZzwewX_p-0rJnMQqIrOIUbBvxQztZLCW1SylxmiesMg/edit?usp=sharing | 10 min
+		- Remote options | Phoebe | Brainstorm/Discussion & determine next steps for preparation | 15 min
+	- Intended Learning Objectives [link] | Amy | Brainstorm & build, update workshop page | 30 min
+- Action item review | Ye | Consensus | 3 min
+- +/𝚫 | Amy | Feedback (all) | 5 min
 
