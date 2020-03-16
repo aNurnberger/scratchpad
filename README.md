@@ -19,19 +19,8 @@ Wiki link: https://wikis.mit.edu/confluence/x/uhIEBw
 - +/𝚫 | Amy | Feedback (all) | 5 min
 
 | Topic | Topic leader | Process | Intent/ Desired outcome | Priority | Time (min) | OK'd |
-| --- |:---:| ---| --- | --- | ---: | --- |
-| Topic | Topic leader | Process | Intent/ Desired outcome | Priority | xx | √ |
-| Topic | Topic leader | Process | Intent/ Desired outcome | Priority | xx | √ |
-| Topic | Topic leader | Process | Intent/ Desired outcome | Priority | xx | √ |
-
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| --- |:---:| ---| --- | --- | ---: | :---: |
+| Pandemic proceedings | HS | Update & check-in | Same page & Surfacing concerns | High | xx | √ |
+| Positions | HS | Update | Identify current issues & next steps | Med | xx | √ |
+| Tri-ennial survey | ALN | Review position paper | Improve, approve, next steps | High | xx | √ |
+| R&L dept mtg | HS | Update & check-in | Next steps | High | xx | √ |
