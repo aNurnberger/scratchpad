@@ -19,7 +19,7 @@ Wiki link: https://wikis.mit.edu/confluence/x/uhIEBw
 - +/𝚫 | Amy | Feedback (all) | 5 min
 
 | Topic | Topic leader | Process | Intent/ Desired outcome | Priority | Time (min) | OK'd |
-| --- |:---:| ---| --- | --- | --- | ---: | --- |
+| --- |:---:| ---| --- | --- | ---: | --- |
 | Topic | Topic leader | Process | Intent/ Desired outcome | Priority | xx | √ |
 | Topic | Topic leader | Process | Intent/ Desired outcome | Priority | xx | √ |
 | Topic | Topic leader | Process | Intent/ Desired outcome | Priority | xx | √ |
