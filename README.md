@@ -18,3 +18,8 @@ Wiki link: https://wikis.mit.edu/confluence/x/uhIEBw
 - Action item review | Ye | Consensus | 3 min
 - +/𝚫 | Amy | Feedback (all) | 5 min
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
