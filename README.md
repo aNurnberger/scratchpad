@@ -20,7 +20,8 @@ Wiki link: https://wikis.mit.edu/confluence/x/uhIEBw
 
 | Topic | Topic leader | Process | Intent/ Desired outcome | Priority | Time (min) | OK'd |
 | --- |:---:| ---| --- | --- | ---: | :---: |
+| Topic | Topic leader | Process | Intent/ Desired outcome | Priority | xx | √ |
+| Topic | Topic leader | Process | Intent/ Desired outcome | Priority | xx | √ |
+| Leadership updates | HS | Update & check-in | informative | med | xx | √ |
 | Pandemic proceedings | HS | Update & check-in | Same page & Surfacing concerns | High | xx | √ |
-| Positions | HS | Update | Identify current issues & next steps | Med | xx | √ |
-| Tri-ennial survey | ALN | Review position paper | Improve, approve, next steps | High | xx | √ |
-| R&L dept mtg | HS | Update & check-in | Next steps | High | xx | √ |
+| DSS dept mtg | HS | Update & check-in | Agenda bldg | High | xx | √ |
