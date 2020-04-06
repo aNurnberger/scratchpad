@@ -59,19 +59,19 @@ Updates:
 	- Do we use this as an opportunity to clean up discrepancies across the Institution's documentation (e.g., Policy vs TLO) or do we focus on limited change to policy? Under consideration and in conversation w Mark (?)
 	- Recommendations: This is a poor operational context to get consensus on anything controversial. Journal articles may be easy enough, but anything more involved is likely to be difficult. 
 	- Background work can continue on, in terms of wording, but getting the policy in place (all the people and conversations and academic council) is something to put off for a bit.
-	[ ] Jay & Marianna will continue to refine wording
-	[ ] Jay, Marianna, and Chris: Devise strategic plan for introduction & feedback 
+	- [ ] Jay & Marianna will continue to refine wording
+	- [ ] Jay, Marianna, and Chris: Devise strategic plan for introduction & feedback 
 		- Two possibilities for feedback are OATF (broadly) and Library Advisory Board. Field testing, improvements, potential objections, etc.
 	
 - Research Data Registry
 	- See Chris' notes https://docs.google.com/document/d/1kYVfFXkEDUjV9ly9ecyXawmtCAD51ss3xkJnNBaLf4w/edit?usp=sharing
-	[ ] Amy Share RDR slide deck
-	[ ] Amy Share data definition
+	- [ ] Amy Share RDR slide deck
+	- [ ] Amy Share data definition
 	
 - Dept provost plans
-	[ ] Katharine will continue to work on the action out of this (Amy check LIRS mtg notes for this)
+	- [ ] Katharine will continue to work on the action out of this (Amy check LIRS mtg notes for this)
 	
 - Other
-	[ ] CB will connect w Linsee about educational resources
-	[ ] PB will look at documenting current TLO practices as a useful contribution to software work 
-	[ ] Future meeting frequency. Keep the frequency, but only for 45 min
+	- [ ] CB will connect w Linsee about educational resources
+	- [ ] PB will look at documenting current TLO practices as a useful contribution to software work 
+	- [ ] Future meeting frequency. Keep the frequency, but only for 45 min
