@@ -20,11 +20,12 @@ Wiki link: https://wikis.mit.edu/confluence/x/uhIEBw
 
 | Topic | Topic leader | Process | Intent/ Desired outcome | Priority | Time (min) | OK'd |
 | --- |:---:| ---| --- | --- | ---: | :---: |
-| Topic | Topic leader | Process | Intent/ Desired outcome | Priority | xx | √ |
-| Topic | Topic leader | Process | Intent/ Desired outcome | Priority | xx | √ |
-| Leadership updates | HS | Update & check-in | informative | med | xx | √ |
-| Pandemic proceedings | HS | Update & check-in | Same page & Surfacing concerns | High | xx | √ |
-| DSS dept mtg | HS | Update & check-in | Agenda bldg | High | xx | √ |
+| Meeting free weeks | HS | review meeting content for upcoming week | Intent/ vent, determine any mtg practice adjustments, communicate with staff	 	 	 
+ | Priority | xx | √ |
+| DSS meeting cycle | HS | review meeting cycle through June | determine day/time, adjust agenda builder | Priority | xx | √ |
+| Motivating environments | AN | Review results of DSS experience | Determine any necessary changes or further efforts | Priority | xx | √ |
+| Response teams | AN | Updates & discussion | Understanding & next steps | Priority | xx | √ |
+| Sr Leadership Team | HS | Updates & discussion | Understand ramifications | Priority | xx | √ |
 
 20200406
 ========
