@@ -20,12 +20,8 @@ Wiki link: https://wikis.mit.edu/confluence/x/uhIEBw
 
 | Topic | Topic leader | Process | Intent/ Desired outcome | Priority | Time (min) | OK'd |
 | --- |:---:| ---| --- | --- | ---: | :---: |
-| Meeting free weeks | HS | review meeting content for upcoming week | Intent/ vent, determine any mtg practice adjustments, communicate with staff	 	 	 
- | Priority | xx | √ |
-| DSS meeting cycle | HS | review meeting cycle through June | determine day/time, adjust agenda builder | Priority | xx | √ |
-| Motivating environments | AN | Review results of DSS experience | Determine any necessary changes or further efforts | Priority | xx | √ |
-| Response teams | AN | Updates & discussion | Understanding & next steps | Priority | xx | √ |
-| Sr Leadership Team | HS | Updates & discussion | Understand ramifications | Priority | xx | √ |
+| Remote User Support and Training: Planning for fall | AN | review current practices & CaRCC notes (https://docs.google.com/document/d/1yqV9xIJUtMQApcqz64LODQmXQQH-wO0aORkinCMVyxg/edit) | Explore models for remote support, determine actions | med | xx | √ |
+| Response & Synthesis teams | Howard | Updates/Discussion | Understanding & next steps | med | xx | √ |
 
 20200406
 ========
