@@ -23,6 +23,13 @@ Wiki link: https://wikis.mit.edu/confluence/x/uhIEBw
 | Remote User Support and Training: Planning for fall | AN | review current practices & CaRCC notes (https://docs.google.com/document/d/1yqV9xIJUtMQApcqz64LODQmXQQH-wO0aORkinCMVyxg/edit) | Explore models for remote support, determine actions | med | xx | √ |
 | Response & Synthesis teams | Howard | Updates/Discussion | Understanding & next steps | med | xx | √ |
 
+| Topic | Topic leader | Process | Intent/ Desired outcome | Priority | Time (min) | OK'd |
+| --- |:---:| ---| --- | --- | ---: | :---: |
+| Annual report | HS | Review timelines, content, answer questions | Timely & effective completion | med | xx | √ |
+| Performance reviews | HS | Review timelines, content, answer questions | Timely & effective completion | med | xx | √ |
+| DSS agenda | DS | Review draft agenda | finalize agenda | med | xx | √ |
+
+
 20200406
 ========
 Attendees: Katharine, Peter, Amy, Jay, Karen, Chris, Marianna
