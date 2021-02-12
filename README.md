@@ -3,6 +3,55 @@ Tests and such
 
 Wiki link: https://wikis.mit.edu/confluence/x/uhIEBw
 
+20210211
+========
+
+Attendees: Ece, Amy, Christine, Phoebe, Helen, Ye, Sadie
+
+- AOB
+- Announcements/sharing 
+	- Open Repositories proposal on accessibility content in DSpace. Looking at OA article collection, esp version of record copies. We should start having accessible PDFs be part of publisher contracts
+	- Large datasets going into DataVerse. 
+	- RDR name
+- Consultation check-ins 
+	- Data Champion!: Was great. Was looking for information for self at MIT, and also to present at a roundtable about MIT. Networking opportunity with EPFL coordinator. CM following up conversation around entry point.
+	- Syllabus data: Discussed challenges. Discussed citation management tools. 
+	- Catherine D'Ignazio: Making data publicly available. Dataverse. Some legacy servers that she is talking to IS&T about. 
+	- Katie Zimmerman: Looking to wrangle license data/information. There is an XML schema for this. XML editor? Resources? https://www.editeur.org/21/ONIX-PL/ Will be meeting w Metadata ppl. Follow-up w Christine on #data-management or email.
+- Topics
+	- Revisit workshop portfolio, particularly in an online context | Amy
+		- E.20 project has elements on making the process/materials better
+		- May be future crossovers w developing workshops for data in a disc or dept, e.g. Data management for Chemistry. 
+		- May be some future possibilities for one off Carpentries topics
+		- Maintain the moderator role. Helpful for moderator to refresh, maybe instruction
+		- Remote or in-person?
+			- For hands-on/using programming tools still easier & maybe more effective in-person
+			- For shorter workshops, remote is great & we've already done the conversion.
+	- Researcher Contact Log / Quickbase security review | Christine
+		- slide link: xxx
+		- Project link: xxx
+		- 
+	- PIDpalooza - notes of interest | Sadie 
+		- Didn't go to everything. It is recorded! https://www.youtube.com/watch?v=MruefxeOwR0&list=PLEbo4R9PBjphrYbjMvzRskQ5XJv2-YutB
+		- Look for presentations from researcher perspective
+		- Eleanora from Arxiv talked about why DataCite DOIs in addition to Arxiv hdls.
+			- While technical hdl system was working, added Datacite DOIs for the community
+		- While the connection is made by the PID, the metadata it's connecting to is important, too!
+		- DataCite updates include other associated documents
+		- They used an interesting DVR style platform
+- Action item review 
+	- [ ] Amy to update KB on Dataverse
+	- [ ] Look for ways for others to increase personal cred w Dataverse
+	- [ ] CM to update on Data Stewards/Champions point of entry conversation
+	- [ ] AN follow up w Ye on comment around discipline specific data workshops
+- +/𝚫 
+	- 𝚫 Combine first two bullets into one
+	- + Conference updates
+	- + Consult updates: for last month do updates
+	- 𝚫 Not 4pm meetings
+
+
+
 - AOB
 - Introduce Sadie!
 - Announcements/Sharing (all, 5-15 min)
