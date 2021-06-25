@@ -123,6 +123,11 @@ Updates:
 	
 - Dept provost plans
 	- [ ] Katharine will continue to work on the action out of this (Amy check LIRS mtg notes for this)
+	
+- Other
+	- [ ] CB will connect w Linsee about educational resources
+	- [ ] PB will look at documenting current TLO practices as a useful contribution to software work 
+	- [ ] Future meeting frequency. Keep the frequency, but only for 45 min
 
 
 - Education & outreach
@@ -153,9 +158,5 @@ Updates:
 		- What about that CoC Infrastructure report?
 		- So many costing questions...
 - Anything else? No.
-- Next meeting: End of July. [ ] Amy work w Lynda.
-	
-- Other
-	- [ ] CB will connect w Linsee about educational resources
-	- [ ] PB will look at documenting current TLO practices as a useful contribution to software work 
-	- [ ] Future meeting frequency. Keep the frequency, but only for 45 min
+- Next meeting: End of July. 
+	- [ ] Amy work w Lynda.
