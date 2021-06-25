@@ -123,6 +123,37 @@ Updates:
 	
 - Dept provost plans
 	- [ ] Katharine will continue to work on the action out of this (Amy check LIRS mtg notes for this)
+
+
+- Education & outreach
+	- Internal training for RAS staff
+		- Aim for September: Welcome & resources. 
+		- [ ] First 2 wks Jul for first convo w Bernadett, Carole & Amy. Bernadette will set.
+	- MIT GA community training
+		- Aim for October: Welcome & resources
+	- MIT research community
+		- We can id NIH PIs & DLCs
+			- [ ] VPR can create report of NIH PIs & DLCs to inform initial RAS/GA training. First 2 wks Jul, Colleen will request.
+			- Use this to identify stakeholder groups, e.g., IP/COI subcommittee, Research computing for advice on how to make resources available, College of Computing connection? (daniella roos (sp?)). 
+				- "These are requirements, how do you recommend we approach effectively?"
+				- Defer convos to fall, but continue identifying targets now.
+				- Faculty input on how to roll this out
+		- Phases & Pathways:
+			- There may be points of contact for computing resources that might be useful there. Tap that network.
+			- Communicate w PIs directly.
+				- Administrators
+				- Computing points of contact
+				- Town hall: record & post. Back & forth/dialog structure is valued. 
+- Issues around data storage & restricted data storage
+	- [ ] Greg will set up convo w Colleen & Mark. IS&T have some demands wrt COVID. There are other infrastructure concerns around security. 
+	- Will continue to think in this area:
+		- Needs more people in the conversation
+		- Not sure colleges are going to solve the problems of the Institute
+		- Strategic planning for pulling conversation back together around available resources & highlights gaps & opportunities
+		- What about that CoC Infrastructure report?
+		- So many costing questions...
+- Anything else? No.
+- Next meeting: End of July. [ ] Amy work w Lynda.
 	
 - Other
 	- [ ] CB will connect w Linsee about educational resources
