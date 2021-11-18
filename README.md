@@ -14,8 +14,8 @@ Notetaker: Amy
 - Announcements/Sharing | Amy | Feedback (all) | 15-20 min
 	- YL: Carpentries sessions planned for IAP, 19-21Jan. Include Python. Separate session being planned for R basics. Usual Harvard R workshops won't be happening.
 	- Consultation updates | same | Feedback (Screener for last month/All)
-		- Halie: audiobook data
-		- Joyce: NIH & FAIR company
+		- GS: audiobook data
+		- GS: NIH & FAIR company
 	- Conferences: going to
 		- RDA: Greater emphasis on research software, disciplinary communities, toolkit for online researcher engagement, 
 		- JC: NDSA, digital preservation conference. A couple recent projects around shutting down dig hum exhibitions/projects. https://digitalhumanitiesddp.com/ & https://endings.uvic.ca/index.html
