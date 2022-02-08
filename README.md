@@ -139,4 +139,7 @@ Attendees: Ece, Amy, Christine, Phoebe, Helen, Ye, Sadie
 | DSS agenda | DS | Review draft agenda | finalize agenda | med | xx | √ |
 
 
+Date | Activity | People
+--------|-----------|---------
+2021 | IASSIST presentation | Christine, Jennie, Madeline
 
