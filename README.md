@@ -143,3 +143,19 @@ Date | Activity | People
 --------|-----------|---------
 2021 | IASSIST presentation | Christine, Jennie, Madeline
 
+Year | Item | People
+----|----|----
+2021 | Co-location & Collaboration: How space influenced
+our library data services (IASSIST) | Christine Malinowski, Jennie Murack, Madeline Wrable
+2021, 2020 | FSCI: FAIR for Data and Texts Not in the Open: Overcoming Legal, Technological, and Economic Barriers (force11) | Ye Li, Laura Hanscom, Katie Zimmerman
+2021 | Preparing Your Chemical Data for Publishing and FAIR Sharing (presentation) | Ye Li
+2020 | Teaching Cheminformatics through a Collaborative Intercollegiate Online Chemistry Course | Ye Li
+2019 | ARL White Paper on WIkidata: Opportunities and Recommendations | Phoebe Ayers
+2019 | Skills, Standards, and Sapp Nelson's Matrix: Evaluating Research Data Management Workshop Offerings | Philip Coombs, Christine Malinowski, Amy Nurnberger
+2021 | Unifying the meaning of open and designing a new global open solutions policy framework | Amy Nurnberger
+2021 | AAU/APLU APARD Summit: Opening panel discussion | Amy Nurnberger
+2021 | CHORUS Forum: Are we ready for data metrics? (panel)| Amy Nurnberger
+2020 | Reflections on Sharing Clinical Trial Data: Challenges and a Way Forward (NASEM workshop, speaker) | Amy Nurnberger
+2019 | GIS and Data: Making Space at MIT (NNLM-NER, presentation) | Daniel Sheehan, Amy Nurnberger
+
+
