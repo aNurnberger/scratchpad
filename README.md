@@ -159,3 +159,78 @@ our library data services (IASSIST) | Christine Malinowski, Jennie Murack, Madel
 2019 | GIS and Data: Making Space at MIT (NNLM-NER, presentation) | Daniel Sheehan, Amy Nurnberger
 
 
+
+
+20220405
+========
+
+Attendees: Pixie Rose, Amy N, Emily K, Nina, Aya, Tina C, Kaija, S
+Regrets: Julia, Ned
+
+## Current Event: **Clap when You Land** Elizabeth Acevedo
+
+	- Postering 
+		- needed beyond the main block, e.g., Sloan, NE 36, former cube space/near Med. Partner Person has already done good postering on main block
+		- Won't have posters until end of next week
+			- Because of logo error on part of sponsor
+			- Waiting to ask Ned to swap the new logo in
+		- Pixie, Kaija up for some organic postering
+		- We are seeing more posters and foot traffic than three weeks ago. A last minute blitz would not be a loss. But if they are made, they should be used
+		- [ ] Postering people: commit to a realistic number of posters you could distribute in the given timeframe and let Nina know, ASAP
+	- Responsibilities for author event
+		- Kaija: Introduction
+			- Please also mention the virtual discussion
+		- Aya & Emily K: Slido
+		- Sophia: has contributed students for staffing event
+		- Nina & Kaija: Discussion facilitation
+		- Nina & Aya: Updating slides for ppl on zoom. 
+		- [ ] Nina will send link to group for review. Need timeline.
+	- Responsibilities: virtual small group discussion
+	- Green room for author?
+		- [ ] Nina will check w Sophia
+	- [ ] Nina will put Aya & Emily in touch w Sophia for MVP/Slido thing
+	- Collection highlights display
+		- Got lots of good suggestions. Working to organize pulls and putting on shelf
+		- Probably have enough now to put up by end of week
+		- What poster should be used? There might be one in the area? 
+			- Could do a "Collections Highlights" thing for Afro-Latine authors
+			- Use the right design template, please
+		- Would like a news item on the web site for the Collections Highlight
+			- [ ] S will do this, essentially like a reading list w links
+		- Is it possible to have a title suggestion for the collection? a link to a form, or something? on the Collections Highlights poster? Maybe to a suggested purchase form??
+			- [ ] S will manage
+		
+## Planning upcoming events:
+
+- Fall 2022 event
+	- Nina/Tina have relationship w autobiographical writing class where students pitch book for MIT Reads. Have identified a theme from last year's notes: tie-in w mental health issues, student mental health
+	- PArtners:
+		- S^3 thrilled to partner on this theme.
+		- Mental health & counseling
+		- Fall timeline challenging for student participation
+	- May Mental Health month could give an opportunity to help start interest, collection suggestions, etc.
+	- Wellness collection at Hayden could use some development & suggestions...
+	
+- Spring 2023 event
+	- Asst Dean from CoC reached out to partner. Will pull whole CoC to contribute thoughts on diversity and inclusion in he computing area
+	- [ ] Nina will contact Phoebe about level of involvement
+
+- Comment: While planning ahead like this may seem to block off participation/suggestions from students, there are other opportunities where Community Engagement supports these efforts
+
+## MIT Reads Membership
+
+- Current membership: 12
+	- New members: Emily, Tina C, Aya
+- We will also be getting ARL Diversity Fellow for Community Engagement
+- Are there needs not currently being met?
+	- Pulling together, writing & formatting marketing content
+		- Could be good work for Fellow
+		- No one stepped up to lead the marketing team
+		- Marketing is a skill, and maybe an actual marketing person should be paid for that work, not voluntary
+		- Decision: This marketing lead role will be assigned to fellow.
+- What does having a signed agreement for represented folk mean for this team?
+	- Everyone's participation is valued. People have been able to contribute where they enjoy.
+	- Until there is a clearer decision about how work gets structured, keep doing what you've been doing
+	- Things change and there may be new configurations, and we should still enjoy working together
+
+
