@@ -169,36 +169,37 @@ Regrets: Julia, Ned
 
 ## Current Event: **Clap when You Land** Elizabeth Acevedo
 
-	- Postering 
-		- needed beyond the main block, e.g., Sloan, NE 36, former cube space/near Med. Partner Person has already done good postering on main block
-		- Won't have posters until end of next week
-			- Because of logo error on part of sponsor
-			- Waiting to ask Ned to swap the new logo in
-		- Pixie, Kaija up for some organic postering
-		- We are seeing more posters and foot traffic than three weeks ago. A last minute blitz would not be a loss. But if they are made, they should be used
-		- [ ] Postering people: commit to a realistic number of posters you could distribute in the given timeframe and let Nina know, ASAP
-	- Responsibilities for author event
-		- Kaija: Introduction
-			- Please also mention the virtual discussion
-		- Aya & Emily K: Slido
-		- Sophia: has contributed students for staffing event
-		- Nina & Kaija: Discussion facilitation
-		- Nina & Aya: Updating slides for ppl on zoom. 
-		- [ ] Nina will send link to group for review. Need timeline.
-	- Responsibilities: virtual small group discussion
-	- Green room for author?
-		- [ ] Nina will check w Sophia
-	- [ ] Nina will put Aya & Emily in touch w Sophia for MVP/Slido thing
-	- Collection highlights display
-		- Got lots of good suggestions. Working to organize pulls and putting on shelf
-		- Probably have enough now to put up by end of week
-		- What poster should be used? There might be one in the area? 
-			- Could do a "Collections Highlights" thing for Afro-Latine authors
-			- Use the right design template, please
-		- Would like a news item on the web site for the Collections Highlight
-			- [ ] S will do this, essentially like a reading list w links
-		- Is it possible to have a title suggestion for the collection? a link to a form, or something? on the Collections Highlights poster? Maybe to a suggested purchase form??
-			- [ ] S will manage
+- Postering 
+	- needed beyond the main block, e.g., Sloan, NE 36, former cube space/near Med. Partner Person has already done good postering on main block
+	- Won't have posters until end of next week
+		- Because of logo error on part of sponsor
+		- Waiting to ask Ned to swap the new logo in
+	- Pixie, Kaija up for some organic postering
+	- We are seeing more posters and foot traffic than three weeks ago. A last minute blitz would not be a loss. But if they are made, they should be used
+	- [ ] Postering people: commit to a realistic number of posters you could distribute in the given timeframe and let Nina know, ASAP
+- Responsibilities for author event
+	- Kaija: Introduction
+		- Please also mention the virtual discussion
+	- Aya & Emily K: Slido
+	- Sophia: has contributed students for staffing event
+	- Nina & Kaija: Discussion facilitation
+	- Nina & Aya: Updating slides for ppl on zoom. 
+	- [ ] Nina will send link to group for review. Need timeline.
+- Responsibilities: virtual small group discussion
+- Green room for author?
+	- [ ] Nina will check w Sophia
+- [ ] Nina will put Aya & Emily in touch w Sophia for MVP/Slido thing
+- Collection highlights display
+	- Got lots of good suggestions. Working to organize pulls and putting on shelf
+	- Probably have enough now to put up by end of week
+	- What poster should be used? There might be one in the area? 
+		- Could do a "Collections Highlights" thing for Afro-Latine authors
+		- Use the right design template, please
+	- Would like a news item on the web site for the Collections Highlight
+		- [ ] S will do this, essentially like a reading list w links
+	- Is it possible to have a title suggestion for the collection? a link to a form, or something? on the Collections Highlights poster? Maybe to a suggested purchase form??
+		- [ ] S will manage
+
 		
 ## Planning upcoming events:
 
