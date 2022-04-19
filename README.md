@@ -238,14 +238,14 @@ Regrets: Julia, Ned
 
 Attendees: FW, AN (notes), NDM, AB, LH, KP
 
-Dept updates (5 min)
+- Dept updates (5 min)
 
-- Avery will be looking to set up introductory/on-boarding meetings w new Music person, Caleb
-- Filled R&L position. Starting 13Jun
-- IDLA working on project to work w users to give back books...Waiving costs on things. Renewal limits are being tightened.	All things BorrowDirect must come back by end of Sept.
-- *Dewey closing to users, although collections will remain accessible to Libraries staff due to HVAC work, ~26May-4Jul* Look for some staff movement and service changes. 
+	- Avery will be looking to set up introductory/on-boarding meetings w new Music person, Caleb
+	- Filled R&L position. Starting 13Jun
+	- IDLA working on project to work w users to give back books...Waiving costs on things. Renewal limits are being tightened.	All things BorrowDirect must come back by end of Sept.
+	- *Dewey closing to users, although collections will remain accessible to Libraries staff due to HVAC work, ~26May-4Jul* Look for some staff movement and service changes. 
 
-Operational time sensitive issues (45 min)
+- Operational time sensitive issues (45 min)
 
     - Circulating media (15 mins): Avery
         - There is a growing demand to borrow media and equipment.  What should we provide to users, why, where, and how?
@@ -285,10 +285,9 @@ Operational time sensitive issues (45 min)
     	
      
     - Goal Mapping, portfolio planning & capacity management (15 min): Amy
-        Groundwork for this project
         - Overview, from Alexia: Would like to roll out practice of goal setting across R&L. With the intent of looking at same outputs, and then how to best address capacity to get this work done. Vision is that we are all able to think about strategy, not step on toes, cross-dependencies. Want to pilot a process for goal setting, to create a practice. Use this to derive mission/vision, identify the exciting thing, understand the resources necessary to support the meta. What is needed from AD, what are inter/intradependencies.
         	- LIRS has a document for "what's on our plate" for the next year. Doing appraisals and goals over the next few weeks. This is just what we know is on our plates.
-				- Timing is out of sync. Goals will be done by second week in May.
+				- Timing is out whack. Goals will be done by second week in May.
 					- How things become projects in RLL is difficult. This would be better if this was brought by Alexia to RLL and asked to figure it out, rather than an individual brings it to RLL.
 					- How do RLL projects become realized?
 					- Karrie would like to see Project Briefs
@@ -299,10 +298,10 @@ Operational time sensitive issues (45 min)
 
 - Deeper discussion topics (35 min) 
 
-    - RLL Norms Chunk (20 mins) – Lisa
+    - RLL Norms Chunk (20 mins): Lisa
        - PREP: Review How to handle disagreements before the meeting. https://docs.google.com/document/d/1Kf4Klrvj1PbNd8kGvL9cWdoAuwvamHIpkhx953WKno8/edit?pli=1#heading=h.25ur7vw7skhq
         - See document.
         - [ ] Lisa will clean up
         - Outcome: Agree to 5-7 norms.
-
-
+        
+    - Outcomes from RLL+ meeting
