@@ -282,7 +282,8 @@ Regrets: Julia, Ned
 		- Journal club type model. In DMS mtg identify topic, gap, possible resources, identify responsibility for summation. In club meeting summation is delivered and application/implementation is discussed.
 		- [ ] AN to create a project plan
 	- From Last Time: Landscape overview of conversations we have as DMS | Amy | Overview & appeal | 10 min
-		- Wiki page of key people and current topics [ ] AN do this
+		- Wiki page of key people and current topics 
+			- [ ] AN do this
 			- Table, sortable by people, dept, topic
 		- Weekly email is good
 		- opening discussions are good
@@ -290,7 +291,8 @@ Regrets: Julia, Ned
 	- RDM updates
 		- Still valuable
 		- Should be shared more widely
-		- Would Data stand-up group be good audience [ ] AN bring up to Heather
+		- Would Data stand-up group be good audience 
+			- [ ] AN bring up to Heather
 		- Make it a blog update
 		- [ ] CM make this mini-project to do this
 	- Structured conversation about DMS evolution: scoping & goals (15 min)
