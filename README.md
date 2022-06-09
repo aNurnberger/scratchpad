@@ -234,74 +234,63 @@ Regrets: Julia, Ned
 	- Until there is a clearer decision about how work gets structured, keep doing what you've been doing
 	- Things change and there may be new configurations, and we should still enjoy working together
 
-# RLL
+20220608
+========
 
-Attendees: FW, AN (notes), NDM, AB, LH, KP
-
-- Dept updates (5 min)
-
-	- Avery will be looking to set up introductory/on-boarding meetings w new Music person, Caleb
-	- Filled R&L position. Starting 13Jun
-	- IDLA working on project to work w users to give back books...Waiving costs on things. Renewal limits are being tightened.	All things BorrowDirect must come back by end of Sept.
-	- *Dewey closing to users, although collections will remain accessible to Libraries staff due to HVAC work, ~26May-4Jul* Look for some staff movement and service changes. 
-
-- Operational time sensitive issues (45 min)
-
-    - Circulating media (15 mins): Avery
-        - There is a growing demand to borrow media and equipment.  What should we provide to users, why, where, and how?
-        - AB gets frequent questions from Staff about what AB does, and what's the deal with Music Library.
-        - Media is a large part of the Music program.
-        - Equipment
-        	- Lewis is getting a bunch of requests for equipment
-        	- MIT Libraries equipment guide: https://libraries.mit.edu/locations/equipment/
-        	- Get asked for equipment outside of Lewis' focus
-        	- Equipment in Lewis' focus: Lights (for theatre/performance), audio recorders (e.g., zoom recorders), external drives, DSL R cameras
-        		- https://www.sweetwater.com/store/detail/H4nProBlk--zoom-h4n-pro-handy-recorder-black
-        - Media
-        	- 
-        - Caleb will be doing survey of current Music Library audio to determine what might need to be updated, etc.
-        - Questions/Thoughts:
-        	- How will user needs be identified?
-        		- AB has done assessment survey, which included question re: areas of need. Updated audio tech was huge area.
-        	- How will user needs be valued? user demand? tied to something curricular?
-        		- Yeah. Great question. selfie sticks are in high demand, but not sure of curricular value 
-        	- What can we learn from the equipment lending programs that we already have?
-        		- Looking at this. 
-        	- Need to make a project, but a right-sized project. The scope is beyond music & theater arts. What's next?
-        		- Wait til Caleb is on-board. Let Caleb/Laura lead. It is important to RLL b/c don't want to make decisions that impact other parts of R&L without considerations.
-        		- Maybe do a swift survey of the landscape and bring to Alexia for placing in priority
-        		- Set up project using RACI model, and pre-setting communication and decision points where RLL should be more heavily involved.
-        
-    - Select 4 staff for learning pilot (15 min): Felicity
-    	- Doing a proof-of-concept for learning pilot. Would like to start with some names to stress-test. Need to have organized cohort implementation with regularized feedback
-    	- There needs to context and basis for assessment. What is the ask
-    		- What do we want them to do
-    		- What is the time commitment
-    			- Could play with the idea of capped time commitment. Should ask Alexia
-    		- When is it meant to happen
-    	- Timing? Probably summer
-    	- This sounds like a project. We should do due diligence.
-    	- [ ] AN/NMD/FW Figure out what is happening. 
-    	
-     
-    - Goal Mapping, portfolio planning & capacity management (15 min): Amy
-        - Overview, from Alexia: Would like to roll out practice of goal setting across R&L. With the intent of looking at same outputs, and then how to best address capacity to get this work done. Vision is that we are all able to think about strategy, not step on toes, cross-dependencies. Want to pilot a process for goal setting, to create a practice. Use this to derive mission/vision, identify the exciting thing, understand the resources necessary to support the meta. What is needed from AD, what are inter/intradependencies.
-        	- LIRS has a document for "what's on our plate" for the next year. Doing appraisals and goals over the next few weeks. This is just what we know is on our plates.
-				- Timing is out whack. Goals will be done by second week in May.
-					- How things become projects in RLL is difficult. This would be better if this was brought by Alexia to RLL and asked to figure it out, rather than an individual brings it to RLL.
-					- How do RLL projects become realized?
-					- Karrie would like to see Project Briefs
-					- [ ] FW & NDM. How to table and continue a discussion
-				- Tools: have a table & syncs up with excel chart
-			- Need to deal with internal and exogenous demands. Needs to make space for exogenous things.
-			- 
-
-- Deeper discussion topics (35 min) 
-
-    - RLL Norms Chunk (20 mins): Lisa
-       - PREP: Review How to handle disagreements before the meeting. https://docs.google.com/document/d/1Kf4Klrvj1PbNd8kGvL9cWdoAuwvamHIpkhx953WKno8/edit?pli=1#heading=h.25ur7vw7skhq
-        - See document.
-        - [ ] Lisa will clean up
-        - Outcome: Agree to 5-7 norms.
-        
-    - Outcomes from RLL+ meeting
+- AOB
+- Announcements/Sharing | Amy | Feedback (all) | 15-20 min
+	- Consultation updates | same | Feedback (Ece/All)
+		- w Phoebe & new faculty member: Fiore in EEPS. Came from Columbia. Looking for overview at MIT for data management. Working on climate change modeling with big data. Done. May come back with request for classes when she starts teaching, in fall 2022. Lincoln has a whole set of classes for using MGH clusters. May be an opportunity for Alejandro to be involved w DMS & faculty.
+		- former Carpentries student. Want to do github class for her classes. 
+	- Conferences: gone/going to
+		- Christine, Tableau virtual conference: Attended some sessions. Got some new TUG members. Some sessions on accessible visualizations. MS accessibility personas. Speed tip sessions very useful. All recordings are available now. Next TUG mtg in July. 
+	- Annual report timing
+		- Everything up to date by 17Jun.
+		- Working on aspects of EDISJ & equity, e.g., accessibility, ethics, indigenous data, talking w COUHES about representation
+		- Opportunities, e.g., Fiore as case study. [write this story]
+- Topics
+	- Summer Workshops: enter your workshop information in the google sheet by the end of the day on Friday, 6/10. (10 min) (https://docs.google.com/spreadsheets/d/1RIl5ja6OtzNRgNvmCS5UwnxTnk9DELdvLou-lmA3grE/edit?usp=sharing) Possibilities from last time:
+		- Data bites, data tapas? (30 min, high level)
+			- ** Data availability statements (Ye/Sadie)
+			- ** readME (Phoebe/Christine)
+			- ** backups (Ece)
+			- ** what to look for in a repository (Sadie/Christine)
+			- Do two & two together. [ ] PA taking point on scheduling
+		- ** RDM for PostDocs (Phoebe/Ece) (need to check timing)
+		- Bringing git and gitHub into its own area of use/instruction
+			- Could do some work here		
+		- Accessibility of visualizations, or work it in to other things
+			- Would be easy to do this, based on slides from "Make better figures"
+		- ** NIH DMSP (Ye/Amy)
+		- More customized Carpentries type workshops for specific disciplines
+			- reg Carpentries sched for 1/2 wk of August
+			- No time for discipline-specific workshop development
+			- Rethinking how Carpentries are scheduled
+		- Use of OSF for research project management
+			- Need a good use case or three for different disciplines
+		- Data protection collaborations
+	- From Last Time (everyone to have reviewed materials): DMS professional development for the topic of: Anonymization, Deidentification, Privacy. | Amy | Share resource & get feedback: How to be FAIR with your data: A teaching and training handbook for higher education institutions” (https://doi.org/10.5281/zenodo.5665492)” has necessary skills & learning outcomes identified (p19-31) and a curriculum already set for sensitive/restricted data in their Lesson Plan 12, p. 155. This is a great starting point for our work, that we can pull from – I especially like #10 of the Lesson Plan. |15 min
+		- Review Lesson plan #1-5, as part of a half session, especially #3 at a definitional level; #1 local policies
+		- 6-10
+		- Need learning together
+		- Homework is hard
+		- Either time in DMS or separate meeting.
+			- Walking through readings/resources
+			- Discuss what kinds of data this might come up for
+			- Examine the lesson plan, determine what gaps are, and what would fill those gaps.
+		- Other resource:  https://faircookbook.elixir-europe.org/content/home.html
+		- Journal club type model. In DMS mtg identify topic, gap, possible resources, identify responsibility for summation. In club meeting summation is delivered and application/implementation is discussed.
+		- [ ] AN to create a project plan
+	- From Last Time: Landscape overview of conversations we have as DMS | Amy | Overview & appeal | 10 min
+		- Wiki page of key people and current topics [ ] AN do this
+			- Table, sortable by people, dept, topic
+		- Weekly email is good
+		- opening discussions are good
+		- Libraries developments & how they impact DMS
+	- RDM updates
+		- Still valuable
+		- Should be shared more widely
+		- Would Data stand-up group be good audience [ ] AN bring up to Heather
+		- Make it a blog update
+		- [ ] CM make this mini-project to do this
+	- Structured conversation about DMS evolution: scoping & goals (15 min)
