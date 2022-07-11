@@ -392,3 +392,32 @@ Attendees: Nina, Amy, Felicity, Avery, Karrie, Lisa
     		- Could each group come and talk excitedly about how their work connects w NUV?
     		- There is value in a shared discourse across directorate about dept contributions to NUV.
 
+20220713
+========
+
+- AOB
+- Announcements/Sharing | Amy | Feedback (all) | 15-20 min
+	- Consultation updates | same | Feedback (Screener for last month/All) 
+	- Conferences: going to
+	- Developments across the Libraries
+		- Data Dialog 2
+- Topics
+	- Topic | Leader | Process & desired outcome | time
+	- FY23 DMS projects | Amy | Share, question, proposals
+		- Data Prize
+		- ETD supplemental vs research materials
+		- NIH DMSP
+		- Professional dev
+		- EDISJ in data
+		- DOI Service
+		- Regulars: Teaching, maintenance, consultation
+			- Data bites
+	- RDI preview & feedback | Amy | Review & feedback
+- Action item review | note-taker | Consensus | 3 min
+	- From last time
+		- [ ] PA taking point on scheduling Data Bites
+		- [ ] AN Wiki page of key people and current topics 
+		- [ ] AN to create a project plan
+		- [ ] CM make mini project for RDM update expand distribution
+		- [ ] AN bring to HS if Data Checkin good audience
+- +/𝚫 | Amy | Feedback (all) | 5 min
