@@ -299,99 +299,6 @@ Regrets: Julia, Ned
 
 -------------------------------------------
 
-20220623
-========
-
-Attendees: Nina, Amy, Felicity, Avery, Karrie, Lisa
-
-- 5  Min check in
-	- Concern about staff sustainability
-	- FW: Mtg w AHW: what to be done to transform diversity of workforce. [ ] FW to share notes
-	- Annual reports: Due dates? Maybe 1Jul?
-- Housekeeping
-	- Next meeting with Alexia, keep 6/9 topics? FDW/NDM 5 min
-		- Is mental wellness still relevant?
-			- Yes. Everyone is still stressed.
-			- What is our ask of Alexia? How would we like to enact agency?
-				- Reducing projects, meetings, engaging in the day-to-day
-		- Plan: Share ideas of what we're doing each in our area: "here is what we're thinking, here is the support we could use from AHW in enacting that"
-    - Hours proposal, Memorial Fridays early close FDW 10 min
-    	- https://docs.google.com/document/d/1bOZULeKiv0RfBrDxXU7qGq99Y3iwYnLQhFXOKDJU06c/edit#heading=h.nwgnng119rp6
-    	- For NEXT summer: Does it make sense for the summer to close early on Friday of holiday weekends?
-    		- Limited utility for facilities to stay open late
-    		- Increased traffic
-    		- Sometimes a lot of other campus stuff going on?
-    		- NDM: Some concern at Friday before Labor Day b/c lots of newbies on campus exploring spaces
-    		- AB: This doesn't solve anything for Music
-    	- Goal: get input
-    		- Staff equity: will make difference to IDLA
-    		- Not great for pre-Labor Day weekend, b/c orientations
-    		- Concern about limiting access to Library resources
-    		- Early closings lack consistency
-    		- [ ] FW: Will assemble feedback and incorporate in report
-    	- AB: Where did use data come from?
-    		- Gate counts
-    		- Alma checkouts
-    - Update on assessment plan for Learning Pilot | NDM/FDW/AN 10 min
-    	- https://mit.co1.qualtrics.com/jfe/form/SV_87CDkMiT7EqQ6Am
-    	- Taking into account lightweight nature of pilot with focus on content, have developed survey instrument.
-    	- Some remaining questions for Alexia: Who's taking what modules?
-    	- AB: Have we identified who is going to participate in the learning pilot? What is the 11Jul date for identifying participants? How many participants, again? We may have more agency here than we suspect in the amount of and use of data we collect
-    	- Believe that is 1 person will take 1 module. Admin only staff. 
-- Our new colleague Sylvia - NDM 15 min
-    - Review of position description and role
-    	- Comes out of ACRL Diversity Alliance to create paths and supports for members of marginalized communities to find meaningful careers in Libraries. 
-    	- https://wikis.mit.edu/confluence/download/attachments/121703541/Vac-ACRL-Diversity-Fellow.pdf?version=1&modificationDate=1655825635000&api=v2
-    	- Skills development, mentoring, growth in community engagement role, which is an emerging role in Libraries
-    - How will each department meet with her and participate in onboarding
-    	- Sylvia: Teaching, Engagement, Long-term goal is management. Newly minted MLIS. 
-    	- Would like on-boarding to include individual meetings to understand departments and their work with Libraries and community
-    	- Outreach to student groups
-    	- Work on program vision for space in Bldg 3, The Den
-    	- Develop presence for Community Engagement program on public web
-    	- On Campus, hybrid, after 4Jul. In Hayden for 1st year, then Rotch.
-    - When do we want to invite her to RLL
-    	- Nina's call
-- Amy and Karrie: Computation/Research Data Support discussion | 40 min
-	- Outcome/Purpose for initial RLL conversation
-		- Get us talking together about data-intensive research and computational research as a long term adaptive challenge for the library to which our directorate will contribute
-			- KP: We're all trying to align depts w NUV. We're good at that within depts, looking at how to do better b/t depts, as a directorate. 
-			- AN: Combining the two points on 
-				- We will prioritize an open scholarship agenda that accelerates the progress of science, promotes equity and inclusion across disciplines, and reduces the marginalization of scholars and scholarship from disadvantaged communities.
-				- We will invest in staff, services, and tools to support data-intensive and computational research and learning.
-		- Learn each other's situations, plans, challenges
-	- We're asking each unit (IDLA, LIRS, CE, Music, DSS) to prepare for this:
-		- Activity #1 -- 20 min: In round-robin style, 4 min max per unit (e.g., only Lisa or Karrie would speak but not both)
-    		- What kinds of aspirations do you have?
-     		- How does data enter into the services and support that your unit provides on campus?
-     			- KP/LIRS: We have clientele & constituencies and operate via relationships. There is generalize program, and their individualized relationships and approaches. Starting point five years ago, that if it was data, it was with DSS. It is becoming more obvious that LIRS needs to be conversant with a more holisitic products of research. Leanring how to figure out what this looks like. Looking at general knowledge for all liaisons, and customized knowledge for disciplinary needs & relationships.
-     				- General: Carpentries, Privacy, Indigenous knowledge, Purchased data infrastructure, Funder & publisher policies
-     				- Individual: Digging into data, Data in the Disciplines
-     				- 4 aspirations:
-     					- Establish competencies
-     					- Issues w Machine Learning
-     					- Better routines for funneling business intelligence back to Libraries with service design
-     					- Different relationship with DSS
-     			- NDM/Community Engagement: Least likely to see self here, but does! One aspiration is in the digital first realm. We've been successful lin launching a rich & varied event program. There is a huge appetite for Live-streaming, recording, hybrid,including remote participants. This costs money. Are under-resourced in expertise and equipment. Something revelatory was event on Feminist Data. Helped to understand importance an d value of different kinds of data and representing different data. Work to be done in exploring uses of data and experiencing data. Kai's event on student artwork using textiles to represent climate change and flood plains in Boston was great. Project that didn't go: student project that was projection of constellations that would be influenced by foot traffic. This program has a lot of potential to work with people around campus to play with conceptions around data and its uses.
-     			- FW/IDLA: We have ppl with enthusiasm for outcomes in terms of equity & SJ that could be supported by data work. Not a lot of skills, though. Really thinking about the data that access services collects with minimal context, e.g., what have the numbers been doing over time. Interested in taking numbers and turning them into decision drivers. How do we make our numbers into meaningful feedback. We need better information on the outcomes. Don't know what impact of Libraries services are to student outcomes. Are there other areas of the Libraries that IDLA can work with. Thinking about outcomes as part of data collection design. Using data for storytelling.
-     			- AB/Lewis: This is very niche, and very inter-disciplinary. It's very humanities-centered. 
-     				- Data Intensive applications might include data from places like billboard, but these commercial programs aren't something we focus on at MIT. Don't see a lot of use of datasets. Interested in Music Encoding initiative -> Encodes music documents in machine readable structure. Text mining. 
-     				- Computation research side: Doing a lot n this area. CASC visiting artist grant that is focused on machine learning in the arts. a lot of interdisciplinarity. Open source application 
-     			- AN/DSS: Felicity took notes
-     			- 
-    	- Activity #2 -- 15 min -- general discussion
-    		- What challenges do we have in fully embracing the strategic direction (as described in the NUV) as a directorate?  What separates us, what overlaps do we have?
-    		- How do we raise the level of discourse around data in the directorate?
-    			- Come together around clear or well-defined holistic service catalog for R&L. How do all of these things fit together?
-    		- Community engagement and connected learning
-    		- For ppl in IDLA around events. If something goes wrong, what are the implications for service in social justice. In what ways is equity seen in our policies.
-    		- Nuances in understanding research and their connections to it
-    		- Amy said some things. Who knows what they were
-    			- Information Services Training program addresses some of the challenges around understanding connections between work of different depts
-    			- a Goal of every directorate meeting should be to increase understanding of connections between depts' work and to the NUV
-    		- Could each group come and talk excitedly about how their work connects w NUV?
-    		- There is value in a shared discourse across directorate about dept contributions to NUV.
-
 20220713
 ========
 
@@ -421,3 +328,64 @@ Attendees: Nina, Amy, Felicity, Avery, Karrie, Lisa
 		- [ ] CM make mini project for RDM update expand distribution
 		- [ ] AN bring to HS if Data Checkin good audience
 - +/𝚫 | Amy | Feedback (all) | 5 min
+
+
+20221020
+=========
+
+Attendees: Nina, Amy (notes), Cassandra, Karrie, Felicity, Avery, Brigham (guest), Lisa
+
+- Updates
+	- NDM: RAK & Study breaks. These are happening. These are assigned tasks, not voluntary. Tasks are assigned in CE group. [Library administrative staff are welcome to participate, tbd]
+	- FW: Reminder. Review the DSS's Strategic work XLS and think about it for yourselves - more after thanksgiving (not sure if this is intended to supplant the Gantt chart). What might uncover strategic alliances. There is no due date, it will be revisited afer thanksgiving https://docs.google.com/spreadsheets/d/1Fkm3AF0Ri8f4yX79reY7CBvS7FguQAcitn2jJCLj0qw/edit#gid=0
+	- Ppl for DLS Project Management group: 
+		- [ ] Everyone send Karrie names of people we recommend for group, who are eligible. Please do this by Friday, 21Oct 
+- Brigham
+	- Internal communication group
+		- Looking for people.
+		- This would be assigned work.
+		- Ongoing. Membership for a year
+		- What are the kinds of work, what kinds of strengths
+	- Specialist slide show	
+		- We're talking about the one in Hayden
+		- No owner of the slide deck
+		- Monitor is an odd/un-useful place
+		- Initial goal was motivated by service design team to raise visibility of expertise
+			- Feel like we've lost the thread here a bit. At this point, not really sure what people get from big screens. Is there any literature about best use of big screens?
+			- BF: We could look at data we have around how ppl hear of events, and see if they are useful for that?
+				- [ ] NDM will do this
+			- How do we tell if the specialist slides have value?
+			- Is there a place, for consultations, where people are asked how they found out about the service?
+				- [ ] LH will look if we can use appt service software to do this?
+		- Can slide show be re-allocated
+			- Ended up splitting up all of the slides that featured individual people
+			- Services were already playing in all the Locations
+			- When starting to think about how experts were shown, realized we have too many experts!
+		- Other options
+			- Move monitor to another space
+				- Probably not quiet reading room (too distracting)
+				- [ ] LH will follow-up on this w Maria
+			- Thinking about setting up playlist differently to spread out individual experts
+			- Ones that are noticeable are those that have people's faces. Could use this as a filter. Would like slides to focus on events
+			- Could think about having slides condensed so that it is group slides by services (w photos), e.g., DUSP, Sci & Eng, 
+				- [ ] LH & BF will take a crack at this
+	- Always looking for new stories
+		- Faculty teaching "Beat of Brazil", historically Lewis hosted a concert for this with outside artists and open to MIT community. Would like to do this in 8Dec, 5pm.
+		- Impact and implications of programming in DEN. Is that a news opportunity?
+			- Link to DEN events: https://docs.google.com/document/d/1JVXHeoloV_vy-diiZWAibDt1Ee-s9Z3R02-I2VrTK8k/edit
+			- When we have co-sponsored events we can ask EVENTS ppl to add Libraries as co-host, and this pulls the event into Libraries' calendar
+			- Student life calendar space: 
+- follow up from discussion last meeting how we as leaders work with our teams and navigate between advocacy and spokesperson behavior.  (30 min) OUTCOME developing some shared understanding/agreement as a leadership team when conversations are action driven and when they are building understanding and trust (or they can be both)
+	- This felt like a difficult conversation for RLL. KP also had a conversation w AHW about this. Want to take an opportunity to learning from this as a group.
+		- Takeaways for RLL behavior as leaders
+			- Spokesperson behavior should be reviewed
+				- Better: bring in people, establish position (not just pass-through)
+			- Help people who raise issues to understand that there are multiple perspectives and processes to deal with this
+- RLL managers mtg
+	- FW has asked IDLA to speak to their experience working w and supervising union eligible staff
+	- All should show up ready to listen in our highly collaborative environment and understand what has changed
+	- While IDL had in charge to do something w CBA, there was a discussion about culture change outside of HR pronouncements & discussions
+	- It would be good to have notes for those that can't attend, Tuesday at 2pm
+		
++ for Karrie on bringing the meta-topic back
++ appreciate ppl leaning into slide conversation
