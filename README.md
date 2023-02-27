@@ -389,3 +389,82 @@ Attendees: Nina, Amy (notes), Cassandra, Karrie, Felicity, Avery, Brigham (guest
 		
 + for Karrie on bringing the meta-topic back
 + appreciate ppl leaning into slide conversation
+
+20230202
+========
+
+- AOB
+- Announcements/Sharing | Amy | Feedback (all) | 15-20 min
+	- Consultation updates | same | Feedback (Screener for last month/All) 
+		- NIH DMSP
+		- Make sure to log your interactions as they happen
+		- Data Viz
+		- Tagging
+	- Conferences: going to
+		- Amy: RDA in March, DataCite & GORC
+	- Developments across the Libraries
+		- Mission statement on Data Services
+		- TDM services
+			- IPLC TDM
+			- Group in LIRS 
+				- LIRS has been talking about access to tools & text
+			- RDM concerns: Creating reproducible 
+				- Sharing
+				- Reproducibility
+				- Workflow
+			- [ ] put on agenda for next time
+- Topics
+	- IAP review
+		- Data bites
+			- ppl register and then stayed for second
+			- More thought about sequencing & grouping
+			- ppl were positive about the 30 min
+		- What worked well
+			- Much more interactive & engaged IAP
+			- Postdocs in person w snacks!! (nexus)
+				- logistics nerves
+		- What should we keep/change
+			- Advertising on postdoc slack
+			- Focused on making things interactive
+				- Use of polleverywhere
+			- note friction of zoom breakout rooms
+		- Noticings
+			- Much more interactive & engaged IAP
+				- More comfortable asking questions
+				- focused topics attract ppl with specific questions that they want answered
+				- we've been running roughly half and half mit & not mit seems like?
+				- Interesting instructional problem for data bites
+					- really only 18 min of instruction time
+					- Not much interaction in session
+					- Easy to spin up
+					- Different expectations: just get the information, not mastery
+				- 50% of registrants show up - this rule still holds true for the sessions I taught (except for Carpentries).
+			- [ ] put April teaching sessions on next agenda	
+				- [ ] better feedback mechanisms
+
+	- Project check-in/review
+			- Research on Open Data Awards
+				- Developing questions
+			- ELNs
+				- ORCD is requesting info from IS&T in terms of what they are supporting for scientific software
+			- WebSite review
+				- Just content or structure, too?
+					- Touch base w Darcy & Melissa
+			- Training on Privacy & Anonymization
+				- Get back to this
+			- EDISJA in DMS
+				- launched
+			- Repositories
+				- Dryad
+				- QDR
+			- [ ] Everyone: update the google sheet
+	- NIH DMSP update
+		- presentations done: 
+		- concerns expressed: https://docs.google.com/spreadsheets/d/1X2uS7QbVslFykvqVA7YcbucNfDUI-1dkNwTFvnQNuM4/edit#gid=158291362
+	
+- Takeaways 
+- Action item review | note-taker | Consensus | 3 min
+	- CAKE + Muddy
+- +/𝚫 | Amy | Feedback (all) | 5 min
+	- What about ambassadors: https://datascience.arizona.edu/dsa
+
