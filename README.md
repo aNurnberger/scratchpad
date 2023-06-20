@@ -468,3 +468,64 @@ Attendees: Nina, Amy (notes), Cassandra, Karrie, Felicity, Avery, Brigham (guest
 - +/𝚫 | Amy | Feedback (all) | 5 min
 	- What about ambassadors: https://datascience.arizona.edu/dsa
 
+# RLL 2023-06-20
+
+- Housekeeping
+	- Facilitator or cancel July 5?
+		- Going once, going twice...Will stay there for a few days, but will likely disappear
+    - Set deadline for annual reports due to Alexia
+    	- By end of July
+    	- For R&L use
+    	- Should align w portfolio management work
+    		- Wants to see stats, so can use as talking points & evidence for envisioning new services/positions
+    		- Narratives around
+    			- Belonging, as operationalized in dept
+    			- Staffing
+- Inconference Debrief and Next Steps  (45 min)
+	- Debrief
+		- what successes should we build on
+			- Felt people had forgotten how important in-person can be
+			- Had some amazing cross-departmental conversations in break-out touching on strategic vision and relationship to work. A lot of enthusiasm for mildly directed and more spontaneous convos like this
+			- Hearing colleagues talk about their & our collective work was very impactful
+			- Overall distribution of social/play/focused time was excellent
+			- Received positive feedback when normally in-person event feedback is usually negative. Especially that organization and facilitation was so smooth, with clear directions
+			- Brought the intellectual basis for work back into our lives (via Ruha Benjamin, panels). The intellectual content was very accessible
+			- Did a good job in aggregate about distributing conference tasks, e.g., owning what we were good at and outsourcing what we're not (catering). Us doing referral to expertise well
+			- Avery was a great MC! and games master!
+				- It was a great way to get to know people. We did something that created belonging instead of talking about it
+				- The NE36 games event was a similar opportunity
+			- Good decision to have ice cream
+			- Good cross-directorate partnership
+			- The importance of bringing people into casual contact with each other to learn about each other and what knowledge people have. The necessity of gathering together as fundamental & essential to our work
+			- Were able to focus on what the R&L directorate needed, didn't overprogram
+			- Some 40-ish people attended R&L event
+		- any lessons learned, things to think about for next time
+			- While we've been hesitant to mandate in-person events, we should come back to good practices and have in-person events 2-4 times/yr, to continue building on these relationships
+			- Not all gathering must be organized like meetings
+			- The need to gather as a directorate for the intent of belonging and discourse vs operations. These are different types of conversations/engagements & relationships
+			- The incidental opportunistic meetings, the space to just chat and get to know folks that was discussed as a huge loss while we have been so short staffed was borne out by the success of the R&L session
+			- The ability to raise and engage with cross-directorate challenges, e.g., computational access to materials
+			- How do we do this as an R&L directorate going forward?
+				- Maybe think about picking & choosing the things we do & the formats for the outcomes that we want. These can look differently and behave differently. If a meeting is different than being together, we need to figure out how to come to that planning differently. Need to diversify portfolio how we meet with our teams, because we need to rebuild or build
+				- More fun is discussing interesting problems rather than report on accomplishments
+			- Plan more in-person directorate meetings. Maybe some single topic or interactive agendas for in-person
+				- e.g., Cupcakes & conversation on AI in Libraries
+			- Increase in-person participation by making it interesting/FOMO rather than compliance
+			- Importance of sharing food together
+				- You don't even need a planned day. Just a designated day, two hours, and BYOL together.
+			- The mis/disinformation session is something that could be like this
+			- Belonging is built through interaction, not programmatic 'sharing of accomplishments'
+		- Summation: Needs: talk about accomplishments, share challenges, cross-cutting developments AND belonging and what creates it. Think about a rubric that creates invitationals rather than mandated meetings. (and maybe a new name) This is work that RLL needs to do
+			- Could RLL consider trying to program the next 12 months so that we make space for the variety of interactions we want? (must take into account academic calendar)
+			- 4X next year is more than enough: 2 traditional directorate meetings and 1-2 gatherings
+				- what is the window for follow-up activity to take advantage of the energy
+				- R&L Ice cream social after Labor Day
+				- What IS the thing that people want us to do again? Ice cream? trivia?
+					- Assigned tables to work on creating something together
+			- Doing 'teaming' in a hybrid organization. How do we address sense of loneliness, the desire to model and remodel leaderliness(?), express valuation of individuals in MIT Libraries. Exploring the forming together that is important. This change vortex and instability is not unique to MIT Libraries, it is all academic libraries. MIT Libraries have created a unique user- & staff-centered hybrid models. We might invite colleagues from other orgs to come talk to provide some comparison. 
+	- Next steps for summer, fall 
+		- Continued in person & hybrid R&L relationship building 
+		- Next R&L meeting
+			- Avery & Alexia to work towards 'traditionally expressed' directorate meetings
+			- May be time to do another poll about whether a directorate meeting should be in-person or on zoom (in-conference experience may have changed perspectives)
+		- Topics for future RLL’s with Alexia (e.g., our own RLL leadership skills building was suggested, what other topics?)
