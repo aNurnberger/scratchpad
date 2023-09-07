@@ -529,3 +529,75 @@ Attendees: Nina, Amy (notes), Cassandra, Karrie, Felicity, Avery, Brigham (guest
 			- Avery & Alexia to work towards 'traditionally expressed' directorate meetings
 			- May be time to do another poll about whether a directorate meeting should be in-person or on zoom (in-conference experience may have changed perspectives)
 		- Topics for future RLL’s with Alexia (e.g., our own RLL leadership skills building was suggested, what other topics?)
+ 
+20230907
+========
+
+Attendees: Sadie, Amy, Joe, Phoebe, Ye, Ece
+
+- AOB
+	- None
+- Action item check-ins:
+	- [x] Phoebe: come up with a list of accommodation resources we could provide in consultations, consult with Nina on where best to put this info for the Libraries
+		- Nina thinks our own list on Libraries space is bad idea. What Phoebe has done is add a section to the general questions page in KB. https://wikis.mit.edu/confluence/display/DSSLIB/Questions+to+ask+in+a+consultation
+	- [x] Sadie: one more round of edits and then DMS will provide documents that will get into DSpace. (Topic: DMS archiving DMS materials DMS wants to share out (teaching related, etc) on DSpace)
+		- Sticking point is there isn't a parent identifier for managing versions. 
+		- There is a work-around, but it relies on users clicking through to most recent version, and making a dummy workaround page.
+		- Stick with the current dropbox solutions for DMS education documents
+		- There is a Libraries community for external presentation materials Presentation’s collection is already available: https://dspace.mit.edu/handle/1721.1/126122
+		- PA expressed need for non-DMS teaching materials
+	- [x] Ece, Phoebe, Ye, Amy: Register for McGill workshops on sensitive data https://www.mcgill.ca/drs/channels/event/data-anonymization-workshop-series-348581
+	- [x] Amy: include item in November meeting to share what was learned.
+	- [x] All: set up October workshops as follows, Quick and Dirty (Phoebe, Ece, in person), File Org (Sadie, Ece, virtual) and NIH (Amy, Ye, virtual)
+	- [x] Ece: show Sadie the calendaring, scheduling of workshops.
+- Announcements/Sharing | Amy | Feedback (all) | 15-20 min
+	- Consultation updates | same | Feedback (Screener for last month/All) 
+		- Followed up with new bio faculty
+		- DMP for environmental eng/agriculture
+		- Chem person
+		- DMP from Media lab
+	- Conferences: going to
+		- PA: Wikimania in Singapore
+			- linked data
+			- Wikimedia projects for governance & editoring
+			- [ ] f/u on bringbacks for DMS
+			- https://eventyay.com/e/8f889410/schedule?date=2023-08-17
+			- FAIR chem data can make its way into Wikipedia, eventuallyhttps://pubs.acs.org/doi/full/10.1021/acs.jcim.2c00886
+		- YL: American Chemistry Society
+			- In EU: Big grant for https://www.nfdi4chem.de/ [check this out for GORC]
+			- Will be using materials for customized workshops for chemistry.
+			- Materials discovery system discussions to bridge gap b/t data collection and AI/ML for designing new materials. A lot of these coming to fore. Majority corporate, seeing more gov't. NIST is expanding platform. 
+		- JC: Society of American Archivists. 
+			- COVID tracking project archives and transfer from independent group to USSF. https://www.library.ucsf.edu/archives/covid-19-pandemic/the-covid-tracking-project-archive/
+				- tools for data journalism
+				- data explorer tool https://explore.covidtracking.com/
+				- Qual data includes documentation of communication platforms & screenshots
+				- Lessons learned? Very grassroots & emergency. There were questions about communications and what to do with personal info captured. There was attempt to consent participants for these.
+		- SR: Data Curation Network & Institutional Data Repositories
+			- Illinois Data Collection very integrated example
+			- NC State and use of Dryad as primary solution. The amount of outreach around Dryad and partnering with Dryad to feel like part of university offerings. Made economic sense. 
+		- AN: RDA in Oct
+			- https://www.rd-alliance.org/plenary-meetings/next-plenary
+	- Developments across the Libraries
+		- Open Data Prize: noted trend is more submissions from engineering than science. 
+			- CREOS post-doc: it's really important to get ppl moving in a direction we need to get leaders moving in direction first
+		- GIS & RDM
+		- TDM?
+		- Ways of Seeing project. 3D model & VR data of cultural sites in Afghanistan. Omeka. They want it in DSpace & ArchNet b/c branding. There aren't other places to make sense to go already.
+			- Recommend DCN primers & RDA groups
+				- https://www.morphosource.org/
+				- Fox Harrell has stuff too https://virtuality.mit.edu/
+				- Not sure if any of these are relevant (some already mentioned)https://cs3dp.org/repositories/
+			- There is a need for a solution across MIT for these types of files. This is reminiscent of computational fluid dynamics, which also does not have a good home.
+				- Also GIS models (Daniel from field trips)
+			- [ ] SR: Let's set up a conversation about how to work on this.
+- Topics
+	- Topic | Leader | Process & desired outcome | time
+	- DMS projects for FY24, finally! | Amy | review projects, confirm roles, schedule. https://wikis.mit.edu/confluence/x/Jwb_Bg | 30 min
+	- Dryad: highlights, status, next steps https://wikis.mit.edu/confluence/x/G4aSDg | Ece | 10 min
+- Takeaways | All | 5 min
+	- There is a Libraries DSpace community for external presentation materials Presentation’s collection is already available: https://dspace.mit.edu/handle/1721.1/126122
+- Action item review | note-taker | Consensus | 3 min
+	- [ ] add mini project EDISJ workshop
+	- [ ] SR set meeting around 3D/VR data for MIT
+	- [ ] AN Who sees backend at Dryad? (what does 'seeing backend of Dryad consist of')
