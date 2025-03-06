@@ -3,65 +3,25 @@ Tests and such
 
 Wiki link: https://wikis.mit.edu/confluence/x/uhIEBw
 
-20211110
-========
-
-Attendees: Joe, Phoebe, Ye, Amy
-Regrets: Helen, Christine, Ece, Sadie
-Notetaker: Amy
-
 - AOB
+- Action item check-ins
 - Announcements/Sharing | Amy | Feedback (all) | 15-20 min
-	- YL: Carpentries sessions planned for IAP, 19-21Jan. Include Python. Separate session being planned for R basics. Usual Harvard R workshops won't be happening.
-	- Consultation updates | same | Feedback (Screener for last month/All)
-		- GS: audiobook data
-		- GS: NIH & FAIR company
-	- Conferences: going to
-		- RDA: Greater emphasis on research software, disciplinary communities, toolkit for online researcher engagement, 
-		- JC: NDSA, digital preservation conference. A couple recent projects around shutting down dig hum exhibitions/projects. https://digitalhumanitiesddp.com/ & https://endings.uvic.ca/index.html
-			- [ ] AN: future topic for RDM. DigHum exhibitions, planning, managing & sunsetting. (ET w constellate platform). Maybe a project?
-	- Repository retreat, and other fun conversations
-		- Retreat & goals
-			- Purchased data: https://mitlibraries.atlassian.net/browse/DLSPP-96
-			- Roadmap:  https://mitlibraries.atlassian.net/browse/DLSPP-107
-		- https://sr.ithaka.org/blog/leveraging-data-communities-to-advance-open-science/ Let Amy Know
-	- 
+	- Consultation updates | same | Feedback (Screener for last month/All) 
+		- When entering students into QB, consider entering their PI as an Additional Researcher
+	- Conferences: gone/going to
+	- Developments across the Libraries
+		- InConference submission
+		- Questions/updates on gov't data
 - Topics
 	- Topic | Leader | Process & desired outcome | time
-	- DMS/DSS box as a guide element
-	- NIH DMSP
-		- DMPtool
-			- Creating customizations for MIT, and maybe BCS
-			- Conversations happening around infrastructure for these
-			- How do we get the DMPtool to the ppl writing the NIH grant?
-				- [ ] AN: Question for Rebecca Saxe. Is it just PIs? or PIs and grant writers.			
-		- Workshops
-			- Doing this again
-			- Amy has some slides on this
-			- Add to IAP.
-				- Can adapt to 1hr, need to do or 2hr, let's start writing
-	- Planning for IAP: Move to Slack
-		- In person or on-line?
-		- On-line
-		- Hybrid? the timeline: consider and test, if determined in spring/summer. do it in fall if decided.
-		- to teach:
-			- reproducibility: cover ML & large datasets, too
-				- More hands on
-				- Need to change description
-			- NIH DMSP
-				- 2 phases
-			- Thesis workshop
-			- Explore the mini-workshop, e.g., 1/2 hr. Research Data Snippets
-				- ReadMe
-				- Software templating
-				- Batch re-namers
-				- Look at Kristin Briney's work
-				- Quicker & Dirtier, just one topic.
-				- What does that license mean? (what license families apply to which types of material, what does that cc mean (downstream obligations)?). Reach out TLO about these.
-				- Picking the right topics
-	- Next time! Land acknowledgements, to continue previous discussion, connection to DMS activities
+	- Project status/hold ups/next steps https://wikis.mit.edu/confluence/x/Jwb_Bg | all | 5-10 min
+	- Data finding
+		- https://findlostdata.org/
+	- Lauren Milechin for ORCD on Globus | 20 min
+- Takeaways 
 - Action item review | note-taker | Consensus | 3 min
-- +/𝚫 | Amy | Fee
+- +/𝚫 | Amy | Feedback (all) | 5 min
+
 
 20210211
 ========
